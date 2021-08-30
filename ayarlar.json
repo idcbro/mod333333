@@ -1,0 +1,80 @@
+{
+"botSettings": {
+    "botToken": "ODc5ODIyNTczNjc0ODU2NDQ5.YSVUnw.tDy8bW7_MuMR6EUw0T8oQKX3JjA",
+    "botVoiceChannel": "875888611969609728",
+    "botOwners": ["852956127728762890"],
+    "prefix": ".",
+    "setFooter": "Λrda Tarafından Geliştirildi!",
+    "botfooter":"50 Cent ❤️ Λrda",
+    "botses":"875888611969609728"
+},
+"mongoose": {
+    "mongoPath": "mongodb+srv://admin:talha123@bot.rmmwb.mongodb.net/47"
+},
+"guildSettings": {
+    "guildID": "547091372990005248",
+    "guildName": "50 Cent",
+    "tag": "⁵⁰",
+    "gostermeliktag":"⁵⁰ & #0050",
+    "etiket":"0050",
+    "invite": "discord.gg/0050"
+},
+"guildHammer": {
+    "jailHammer": "875881279021793401",
+    "banHammer": "875881212319772743",
+    "muteHammer": "875881338543173632",
+    "vmuteHammer": "875881338543173632",
+    "auth": "875880184681746512"
+},
+"guildLogs": {
+"banLogs": "879823763615658074",
+"jailLogs": "879823789473546310",
+"muteLogs": "879823775972077618",
+"vmuteLogs": "879823775972077618",
+"welcome": "873574519271464992",
+"otoRoleLogs": "879823877662973962",
+"susLogs": "879823877662973962",
+"tagLogs": "879823914010832896",
+"spotifyChannel": "879823877662973962",
+"banLimit" : "879823932620931132",
+"messagelog":"879823877662973962",
+"ruleschannel":"873574539576090675",
+"commandslog":"879823981186801684"
+},
+
+"guildRoles": {
+    "jailRole": "873574451244052582",
+    "vmuteRole": "875883990098259998",
+    "muteRole": "875883990098259998",
+    "boosterRole": "663739465050750998",
+    "unregister": ["873574445258793001"],
+    "sus": "873574447704080415"
+},
+"reg": {
+    "regHammer":"875881438166265896",
+    "erkekRoles": ["873574442360537098","873574443149041704","873574443572682833"],
+    "kariRoles": ["873574439361605673","873574440456314951","873574441324515328"],
+    "familyRole": "873574420172656670"
+
+},
+"yetkiliRole": {
+    "enAltYetkiliRole": "873574397254971412"
+},
+"emojiler": {
+    "mute": "",
+    "unmute": "",
+    "def": "",
+    "undef": "",
+    "onay": "879825538401841233",
+    "red": "879825535902044180" 
+},
+"yasakliTag": {
+    "yasakliTagRole": "873574447112658974"
+},
+"ekstraRoles": {
+"vip": "874706990146945054",
+"lovers": "874706990146945054",
+"muzisyen": "873574432772329482",
+"sponsor": "873574429458858004"
+}
+}
